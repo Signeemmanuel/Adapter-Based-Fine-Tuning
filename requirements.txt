@@ -12,5 +12,4 @@ huggingface_hub
 pandas
 numpy
 tqdm
-# torchcodec is optional but recommended if dealing with .webm files in specific environments
 torchcodec
