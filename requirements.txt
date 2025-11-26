@@ -1,0 +1,16 @@
+torch
+torchaudio
+transformers>=4.30.0
+datasets>=2.14.0
+peft
+evaluate
+jiwer
+librosa
+soundfile
+accelerate
+huggingface_hub
+pandas
+numpy
+tqdm
+# torchcodec is optional but recommended if dealing with .webm files in specific environments
+torchcodec
